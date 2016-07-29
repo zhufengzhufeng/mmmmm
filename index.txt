@@ -2,4 +2,8 @@ hello
 world
 hello
 world
+<<<<<<< HEAD
 world
+=======
+1
+>>>>>>> origin/master
